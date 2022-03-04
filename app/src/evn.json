@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Кепка Nike Heritage86 Futura Washed",
+        "imgUrl": "/images/cap/nike.webp",
+        "sale": "2600"
+    },
+    
+    {
+        "title": "Кепка Nike Dri-FIT Pro Futura",
+        "imgUrl": "/images/cap/nike1.webp",
+        "sale": "2200"
+    },
+    {
+        "title": "Кепка Jordan Pro Jumpman Snapback Black",
+        "imgUrl": "/images/cap/jordan2.webp",
+        "sale": "2500"
+    },
+    {
+        "title": "Кепка Jordan Pro Jumpman Snapback Wihte",
+        "imgUrl": "/images/cap/jordan1.webp",
+        "sale": "2500"
+    }
+    
+
+]
